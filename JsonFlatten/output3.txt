@@ -1,0 +1,1 @@
+{"customer": "D", "company": "xyz", "purchase order.a": 23, "purchase order.b": 12, "purchase order.c": 4}

@@ -1,0 +1,1 @@
+{"student.N.age": 20, "student.N.Marks": [90, 50, 49]}
